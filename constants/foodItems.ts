@@ -13,7 +13,7 @@ const foodItems: FoodItem[] = [
     id: 1,
     name: 'Cheese Burger',
     price: 120,
-    image: 'https://images.unsplash.com/photo-1550547660-d9450f859349',
+    image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd',
     category: 'Burgers',
     description: 'Juicy grilled beef patty with melted cheese and fresh lettuce.'
   },
@@ -61,7 +61,7 @@ const foodItems: FoodItem[] = [
     id: 7,
     name: 'French Fries',
     price: 90,
-    image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd',
+    image: 'https://www.emborg.com/app/uploads/2023/07/1200x1200px_French_Fries_Overload_With_Beef.png',
     category: 'Starters',
     description: 'Crispy golden fries with seasoning.'
   },
@@ -77,7 +77,7 @@ const foodItems: FoodItem[] = [
     id: 9,
     name: 'Grilled Chicken Sandwich',
     price: 150,
-    image: 'https://images.unsplash.com/photo-1655740209850-29598ac246a3',
+    image: 'https://www.licious.in/blog/wp-content/uploads/2020/12/Grilled-Chicken-min.jpg',
     category: 'Hot Deals',
     description: 'Grilled chicken breast with lettuce, tomato, and mayo.'
   },
@@ -85,7 +85,7 @@ const foodItems: FoodItem[] = [
     id: 10,
     name: 'Ice Cream Sundae',
     price: 120,
-    image: 'https://www.licious.in/blog/wp-content/uploads/2020/12/Grilled-Chicken-min.jpg',
+    image: 'https://www.stefanofaita.com/wp-content/uploads/2023/02/sundae-a-la-creme-glacee-maison-.jpg',
     category: 'Desserts',
     description: 'Vanilla ice cream with chocolate syrup and a cherry.'
   },
