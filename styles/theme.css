@@ -1,0 +1,13 @@
+:root {
+    --color-primary: #f97316;
+    --color-accent: #22d3ee;
+    --bg-light: #fdfdfd;
+    --bg-dark: #1e1e2f;
+  }
+  
+  .dark {
+    --color-primary: #fb923c;
+    --color-accent: #06b6d4;
+    --bg-light: #1e1e2f;
+    --bg-dark: #0f172a;
+  }
