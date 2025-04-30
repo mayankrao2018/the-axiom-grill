@@ -21,7 +21,7 @@ const foodItems: FoodItem[] = [
     id: 2,
     name: 'Veg Pizza',
     price: 150,
-    image: 'https://images.unsplash.com/photo-1601925178444-1c4a4b3c6d18',
+    image: 'https://foodoncall.co.in/wp-content/uploads/2017/09/italian.jpg',
     category: 'Pizzas',
     description: 'Loaded with bell peppers, onions, olives, and mozzarella.'
   },
@@ -37,7 +37,7 @@ const foodItems: FoodItem[] = [
     id: 4,
     name: 'Chicken Manchurian',
     price: 180,
-    image: 'https://images.unsplash.com/photo-1690062770503-bd52c458bcb2',
+    image: 'https://haribhavanam.com/cdn/shop/files/Chicken_Manchurian_Gravy_809x.webp?v=1733212436',
     category: 'Chinese',
     description: 'Crispy chicken tossed in spicy Indo-Chinese sauce.'
   },
@@ -53,7 +53,7 @@ const foodItems: FoodItem[] = [
     id: 6,
     name: 'Choco Lava Cake',
     price: 100,
-    image: 'https://images.unsplash.com/photo-1671475706761-9b25e9f53667',
+    image: 'https://images.herzindagi.info/image/2024/Apr/choco-lava-cake-recipe.jpg',
     category: 'Desserts',
     description: 'Warm chocolate cake with a gooey lava center.'
   },
@@ -69,7 +69,7 @@ const foodItems: FoodItem[] = [
     id: 8,
     name: 'Mango Smoothie',
     price: 60,
-    image: 'https://images.unsplash.com/photo-1615484477864-4f9dc5ef31bc',
+    image: 'https://img.freepik.com/premium-photo/mango-smoothie-with-coconut-flakes-1024jpg_995407-215340.jpg',
     category: 'Beverages',
     description: 'Cool and refreshing mango smoothie.'
   },
@@ -85,7 +85,7 @@ const foodItems: FoodItem[] = [
     id: 10,
     name: 'Ice Cream Sundae',
     price: 120,
-    image: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587',
+    image: 'https://www.licious.in/blog/wp-content/uploads/2020/12/Grilled-Chicken-min.jpg',
     category: 'Desserts',
     description: 'Vanilla ice cream with chocolate syrup and a cherry.'
   },
